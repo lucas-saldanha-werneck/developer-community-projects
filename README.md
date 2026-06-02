@@ -5,3 +5,5 @@
     <img alt="Add your project" src=".github/submit-button.png" height="37"/>
   </a>
 </div>
+
+*By accessing or using 1Password Developer Tools, you agree to the [API and SDK Terms of Service](https://1password.com/legal/api-sdk-terms-of-service).*
